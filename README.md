@@ -2,7 +2,7 @@
 
 Um jogo estilo **Flappy Bird**, desenvolvido em **Unity** e publicado em **WebGL**. Controle o personagem usando a tecla **Espaço** para voar e desviar dos obstáculos. Quando perder, pressione **Espaço** novamente para reiniciar a partida.
 
-![Gameplay](screenshot.png) <!-- Substitua por uma imagem do jogo, se quiser -->
+![Gameplay](img/FlappyImg.png) <!-- Substitua por uma imagem do jogo, se quiser -->
 
 ## 🎮 Como Jogar
 
