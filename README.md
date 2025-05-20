@@ -14,7 +14,7 @@ Um jogo estilo **Flappy Bird**, desenvolvido em **Unity** e publicado em **WebGL
 ## 🚀 Jogar Online
 
 Você pode jogar diretamente no navegador:  
-👉 [**Jogue agora (WebGL)**](https://seu-link-aqui.com)
+👉 [**Jogue agora (WebGL)**](https://play.unity.com/en/games/1ce39d43-fe18-4899-a23b-f4e63b3bf3cc/builddirectory)
 
 ## 🛠️ Tecnologias Utilizadas
 
